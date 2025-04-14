@@ -1,0 +1,12 @@
+<resources>
+    <string name="heads_text">Heads!</string>
+    <string name="tails_text">Tails!</string>
+    <string name="heads_count">Heads: %1$d</string>
+    <string name="tails_count">Tails: %1$d</string>
+    <string name="heads_0">Heads: 0</string>
+    <string name="tails_0">Tails: 0</string>
+    <string name="reset">Reset</string>
+    <string name="toss_coin">Toss Coin</string>
+    <string name="todo">TODO</string>
+    <string name="app_name">Coin Toss</string>
+</resources>
